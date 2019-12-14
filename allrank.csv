@@ -1,0 +1,1173 @@
+contestant_id,season_number,episode_number,contestant_name,episode_placement
+9,1,1,BeBe Zahara Benet,SAFE
+2,1,1,Nina Flowers,WIN
+3,1,1,Rebecca Glasscock,LOW
+1,1,1,Shannel,SAFE
+4,1,1,Ongina,HIGH
+8,1,1,Jade,SAFE
+6,1,1,Akashia,BTM2
+7,1,1,Tammie Brown,SAFE
+5,1,1,Victoria Porkchop Parker,ELIM
+9,1,2,BeBe Zahara Benet,SAFE
+2,1,2,Nina Flowers,HIGH
+3,1,2,Rebecca Glasscock,HIGH
+1,1,2,Shannel,HIGH
+4,1,2,Ongina,WIN
+8,1,2,Jade,SAFE
+6,1,2,Akashia,BTM2
+7,1,2,Tammie Brown,ELIM
+9,1,3,BeBe Zahara Benet,WIN
+2,1,3,Nina Flowers,HIGH
+3,1,3,Rebecca Glasscock,SAFE
+1,1,3,Shannel,BTM2
+4,1,3,Ongina,HIGH
+8,1,3,Jade,LOW
+6,1,3,Akashia,ELIM
+9,1,4,BeBe Zahara Benet,HIGH
+2,1,4,Nina Flowers,HIGH
+3,1,4,Rebecca Glasscock,BTM2
+1,1,4,Shannel,LOW
+4,1,4,Ongina,WIN
+8,1,4,Jade,ELIM
+9,1,5,BeBe Zahara Benet,BTM2
+2,1,5,Nina Flowers,LOW
+3,1,5,Rebecca Glasscock,WIN
+1,1,5,Shannel,HIGH
+4,1,5,Ongina,ELIM
+9,1,6,BeBe Zahara Benet,WIN
+2,1,6,Nina Flowers,HIGH
+3,1,6,Rebecca Glasscock,BTM2
+1,1,6,Shannel,ELIM
+9,1,8,BeBe Zahara Benet,Winner
+2,1,8,Nina Flowers,Runner-up
+3,1,8,Rebecca Glasscock,Eliminated
+9,1,9,BeBe Zahara Benet,Guest
+2,1,9,Nina Flowers,Miss C
+3,1,9,Rebecca Glasscock,Guest
+1,1,9,Shannel,Guest
+4,1,9,Ongina,Guest
+8,1,9,Jade,Guest
+6,1,9,Akashia,Guest
+7,1,9,Tammie Brown,Guest
+5,1,9,Victoria Porkchop Parker,Guest
+21,2,1,Tyra Sanchez,HIGH
+12,2,1,Raven,SAFE
+13,2,1,Jujubee,SAFE
+19,2,1,Tatianna,SAFE
+20,2,1,Pandora Boxx,HIGH
+17,2,1,Jessica Wild,SAFE
+14,2,1,Sahara Davenport,BTM2
+15,2,1,Morgan McMichaels,WIN
+18,2,1,Sonique,SAFE
+16,2,1,Mystique Summers Madison,LOW
+10,2,1,Nicole Paige Brooks,SAFE
+11,2,1,Shangela Laquifa Wadley,ELIM
+21,2,2,Tyra Sanchez,HIGH
+12,2,2,Raven,BTM2
+13,2,2,Jujubee,HIGH
+19,2,2,Tatianna,SAFE
+20,2,2,Pandora Boxx,SAFE
+17,2,2,Jessica Wild,HIGH
+14,2,2,Sahara Davenport,WIN
+15,2,2,Morgan McMichaels,SAFE
+18,2,2,Sonique,LOW
+16,2,2,Mystique Summers Madison,HIGH
+10,2,2,Nicole Paige Brooks,ELIM
+21,2,3,Tyra Sanchez,WIN
+12,2,3,Raven,BTM2
+13,2,3,Jujubee,SAFE
+19,2,3,Tatianna,SAFE
+20,2,3,Pandora Boxx,HIGH
+17,2,3,Jessica Wild,HIGH
+14,2,3,Sahara Davenport,SAFE
+15,2,3,Morgan McMichaels,SAFE
+18,2,3,Sonique,SAFE
+16,2,3,Mystique Summers Madison,ELIM
+21,2,4,Tyra Sanchez,SAFE
+12,2,4,Raven,SAFE
+13,2,4,Jujubee,LOW
+19,2,4,Tatianna,WIN
+20,2,4,Pandora Boxx,HIGH
+17,2,4,Jessica Wild,SAFE
+14,2,4,Sahara Davenport,SAFE
+15,2,4,Morgan McMichaels,BTM2
+18,2,4,Sonique,ELIM
+21,2,5,Tyra Sanchez,WIN
+12,2,5,Raven,HIGH
+13,2,5,Jujubee,HIGH
+19,2,5,Tatianna,SAFE
+20,2,5,Pandora Boxx,LOW
+17,2,5,Jessica Wild,HIGH
+14,2,5,Sahara Davenport,BTM2
+15,2,5,Morgan McMichaels,ELIM
+21,2,6,Tyra Sanchez,LOW
+12,2,6,Raven,HIGH
+13,2,6,Jujubee,BTM2
+19,2,6,Tatianna,SAFE
+20,2,6,Pandora Boxx,HIGH
+17,2,6,Jessica Wild,WIN
+14,2,6,Sahara Davenport,ELIM
+21,2,7,Tyra Sanchez,HIGH
+12,2,7,Raven,WIN
+13,2,7,Jujubee,HIGH
+19,2,7,Tatianna,BTM2
+20,2,7,Pandora Boxx,LOW
+17,2,7,Jessica Wild,ELIM
+21,2,8,Tyra Sanchez,HIGH
+12,2,8,Raven,WIN
+13,2,8,Jujubee,BTM2
+19,2,8,Tatianna,HIGH
+20,2,8,Pandora Boxx,ELIM
+21,2,9,Tyra Sanchez,WIN
+12,2,9,Raven,HIGH
+13,2,9,Jujubee,BTM2
+19,2,9,Tatianna,ELIM
+21,2,11,Tyra Sanchez,Winner
+12,2,11,Raven,Runner-up
+13,2,11,Jujubee,Eliminated
+21,2,12,Tyra Sanchez,Guest
+12,2,12,Raven,Guest
+13,2,12,Jujubee,Guest
+19,2,12,Tatianna,Guest
+20,2,12,Pandora Boxx,Miss C
+17,2,12,Jessica Wild,Guest
+14,2,12,Sahara Davenport,Guest
+15,2,12,Morgan McMichaels,Guest
+18,2,12,Sonique,Guest
+16,2,12,Mystique Summers Madison,Guest
+10,2,12,Nicole Paige Brooks,Guest
+11,2,12,Shangela Laquifa Wadley,Guest
+33,3,2,Raja,WIN
+25,3,2,Manila Luzon,HIGH
+30,3,2,Alexis Mateo,SAFE
+28,3,2,Yara Sofia,SAFE
+23,3,2,Carmen Carrera,LOW
+34,3,2,Shangela,BTM2
+22,3,2,Delta Work,SAFE
+26,3,2,Stacy Layne Matthews,SAFE
+29,3,2,Mariah,SAFE
+31,3,2,India Ferrah,SAFE
+32,3,2,Mimi Imfurst,HIGH
+24,3,2,Phoenix,SAFE
+27,3,2,Venus D-Lite,ELIM
+33,3,3,Raja,SAFE
+25,3,3,Manila Luzon,SAFE
+30,3,3,Alexis Mateo,WIN
+28,3,3,Yara Sofia,HIGH
+23,3,3,Carmen Carrera,LOW
+34,3,3,Shangela,WIN
+22,3,3,Delta Work,BTM2
+26,3,3,Stacy Layne Matthews,HIGH
+29,3,3,Mariah,HIGH
+31,3,3,India Ferrah,SAFE
+32,3,3,Mimi Imfurst,HIGH
+24,3,3,Phoenix,ELIM
+33,3,4,Raja,SAFE
+25,3,4,Manila Luzon,SAFE
+30,3,4,Alexis Mateo,WIN
+28,3,4,Yara Sofia,HIGH
+23,3,4,Carmen Carrera,SAFE
+34,3,4,Shangela,SAFE
+22,3,4,Delta Work,SAFE
+26,3,4,Stacy Layne Matthews,HIGH
+29,3,4,Mariah,LOW
+31,3,4,India Ferrah,BTM2
+32,3,4,Mimi Imfurst,ELIM
+33,3,5,Raja,SAFE
+25,3,5,Manila Luzon,WIN
+30,3,5,Alexis Mateo,SAFE
+28,3,5,Yara Sofia,SAFE
+23,3,5,Carmen Carrera,SAFE
+34,3,5,Shangela,HIGH
+22,3,5,Delta Work,SAFE
+26,3,5,Stacy Layne Matthews,BTM2
+29,3,5,Mariah,LOW
+31,3,5,India Ferrah,ELIM
+33,3,6,Raja,HIGH
+25,3,6,Manila Luzon,SAFE
+30,3,6,Alexis Mateo,HIGH
+28,3,6,Yara Sofia,LOW
+23,3,6,Carmen Carrera,SAFE
+34,3,6,Shangela,SAFE
+22,3,6,Delta Work,BTM2
+26,3,6,Stacy Layne Matthews,WIN
+29,3,6,Mariah,ELIM
+33,3,7,Raja,WIN
+25,3,7,Manila Luzon,HIGH
+30,3,7,Alexis Mateo,BTM2
+28,3,7,Yara Sofia,HIGH
+23,3,7,Carmen Carrera,LOW
+34,3,7,Shangela,LOW
+22,3,7,Delta Work,HIGH
+26,3,7,Stacy Layne Matthews,ELIM
+33,3,8,Raja,HIGH
+25,3,8,Manila Luzon,BTM2
+30,3,8,Alexis Mateo,SAFE
+28,3,8,Yara Sofia,HIGH
+23,3,8,Carmen Carrera,HIGH
+34,3,8,Shangela,WIN
+22,3,8,Delta Work,ELIM
+33,3,9,Raja,LOW
+25,3,9,Manila Luzon,LOW
+30,3,9,Alexis Mateo,WIN
+28,3,9,Yara Sofia,BTM2
+23,3,9,Carmen Carrera,BTM2
+34,3,9,Shangela,SAFE
+33,3,10,Raja,WIN
+25,3,10,Manila Luzon,HIGH
+30,3,10,Alexis Mateo,LOW
+28,3,10,Yara Sofia,SAFE
+23,3,10,Carmen Carrera,ELIM
+34,3,10,Shangela,BTM2
+33,3,11,Raja,HIGH
+25,3,11,Manila Luzon,HIGH
+30,3,11,Alexis Mateo,BTM2
+28,3,11,Yara Sofia,WIN
+34,3,11,Shangela,ELIM
+33,3,12,Raja,BTM2
+25,3,12,Manila Luzon,WIN
+30,3,12,Alexis Mateo,HIGH
+28,3,12,Yara Sofia,SAFE
+23,3,12,Carmen Carrera,ELIM
+33,3,13,Raja,HIGH
+25,3,13,Manila Luzon,WIN
+30,3,13,Alexis Mateo,BTM2
+28,3,13,Yara Sofia,ELIM
+33,3,15,Raja,Winner
+25,3,15,Manila Luzon,Runner-up
+30,3,15,Alexis Mateo,Eliminated
+33,3,16,Raja,Guest
+25,3,16,Manila Luzon,Guest
+30,3,16,Alexis Mateo,Guest
+28,3,16,Yara Sofia,Miss C
+23,3,16,Carmen Carrera,Guest
+34,3,16,Shangela,Guest
+22,3,16,Delta Work,Guest
+26,3,16,Stacy Layne Matthews,Guest
+29,3,16,Mariah,Guest
+31,3,16,India Ferrah,Guest
+32,3,16,Mimi Imfurst,Guest
+24,3,16,Phoenix,Guest
+27,3,16,Venus D-Lite,Guest
+46,4,1,Sharon Needles,WIN
+45,4,1,Chad Michaels,SAFE
+38,4,1,Phi Phi O'Hara,SAFE
+47,4,1,Latrice Royale,SAFE
+44,4,1,Kenya Michaels,LOW
+42,4,1,DiDa Ritz,SAFE
+35,4,1,Willam,SAFE
+37,4,1,Jiggly Caliente,BTM2
+40,4,1,Milan,SAFE
+39,4,1,Madame LaQueer,SAFE
+43,4,1,The Princess,HIGH
+36,4,1,Lashauwn Beyond,HIGH
+41,4,1,Alisa Summers,ELIM
+46,4,2,Sharon Needles,HIGH
+45,4,2,Chad Michaels,WIN
+38,4,2,Phi Phi O'Hara,SAFE
+47,4,2,Latrice Royale,SAFE
+44,4,2,Kenya Michaels,SAFE
+42,4,2,DiDa Ritz,LOW
+35,4,2,Willam,SAFE
+37,4,2,Jiggly Caliente,SAFE
+40,4,2,Milan,HIGH
+39,4,2,Madame LaQueer,WIN
+43,4,2,The Princess,BTM2
+36,4,2,Lashauwn Beyond,ELIM
+46,4,3,Sharon Needles,WIN
+45,4,3,Chad Michaels,HIGH
+38,4,3,Phi Phi O'Hara,SAFE
+47,4,3,Latrice Royale,SAFE
+44,4,3,Kenya Michaels,HIGH
+42,4,3,DiDa Ritz,BTM2
+35,4,3,Willam,SAFE
+37,4,3,Jiggly Caliente,SAFE
+40,4,3,Milan,SAFE
+39,4,3,Madame LaQueer,LOW
+43,4,3,The Princess,ELIM
+46,4,4,Sharon Needles,SAFE
+45,4,4,Chad Michaels,HIGH
+38,4,4,Phi Phi O'Hara,HIGH
+47,4,4,Latrice Royale,WIN
+44,4,4,Kenya Michaels,LOW
+42,4,4,DiDa Ritz,SAFE
+35,4,4,Willam,HIGH
+37,4,4,Jiggly Caliente,HIGH
+40,4,4,Milan,BTM2
+39,4,4,Madame LaQueer,ELIM
+46,4,5,Sharon Needles,HIGH
+45,4,5,Chad Michaels,WIN
+38,4,5,Phi Phi O'Hara,LOW
+47,4,5,Latrice Royale,SAFE
+44,4,5,Kenya Michaels,ELIM
+42,4,5,DiDa Ritz,SAFE
+35,4,5,Willam,HIGH
+37,4,5,Jiggly Caliente,SAFE
+40,4,5,Milan,BTM2
+46,4,6,Sharon Needles,SAFE
+45,4,6,Chad Michaels,SAFE
+38,4,6,Phi Phi O'Hara,HIGH
+47,4,6,Latrice Royale,HIGH
+42,4,6,DiDa Ritz,LOW
+35,4,6,Willam,WIN
+37,4,6,Jiggly Caliente,BTM2
+40,4,6,Milan,ELIM
+46,4,7,Sharon Needles,HIGH
+45,4,7,Chad Michaels,LOW
+38,4,7,Phi Phi O'Hara,WIN
+47,4,7,Latrice Royale,LOW
+42,4,7,DiDa Ritz,SAFE
+35,4,7,Willam,BTM2
+37,4,7,Jiggly Caliente,ELIM
+46,4,8,Sharon Needles,BTM2
+45,4,8,Chad Michaels,SAFE
+38,4,8,Phi Phi O'Hara,BTM2
+47,4,8,Latrice Royale,WIN
+42,4,8,DiDa Ritz,SAFE
+35,4,8,Willam,DISQ
+46,4,9,Sharon Needles,WIN
+45,4,9,Chad Michaels,HIGH
+38,4,9,Phi Phi O'Hara,LOW
+47,4,9,Latrice Royale,BTM2
+42,4,9,DiDa Ritz,ELIM
+46,4,10,Sharon Needles,LOW
+45,4,10,Chad Michaels,HIGH
+38,4,10,Phi Phi O'Hara,WIN
+47,4,10,Latrice Royale,BTM2
+44,4,10,Kenya Michaels,ELIM
+46,4,11,Sharon Needles,WIN
+45,4,11,Chad Michaels,BTM2
+38,4,11,Phi Phi O'Hara,HIGH
+47,4,11,Latrice Royale,ELIM
+46,4,13,Sharon Needles,SAFE
+45,4,13,Chad Michaels,SAFE
+38,4,13,Phi Phi O'Hara,SAFE
+46,4,14,Sharon Needles,Winner
+45,4,14,Chad Michaels,Runner-up
+38,4,14,Phi Phi O'Hara,Runner-up
+47,4,14,Latrice Royale,Miss C
+44,4,14,Kenya Michaels,Guest
+42,4,14,DiDa Ritz,Guest
+35,4,14,Willam,Guest
+37,4,14,Jiggly Caliente,Guest
+40,4,14,Milan,Guest
+39,4,14,Madame LaQueer,Guest
+43,4,14,The Princess,Guest
+36,4,14,Lashauwn Beyond,Guest
+41,4,14,Alisa Summers,Guest
+53,5,1,Jinkx Monsoon,SAFE
+56,5,1,Alaska,HIGH
+49,5,1,Roxxxy Andrews,WIN
+48,5,1,Detox,SAFE
+61,5,1,Coco Montrese,SAFE
+52,5,1,Alyssa Edwards,SAFE
+58,5,1,Ivy Winters,HIGH
+50,5,1,Jade Jolie,LOW
+60,5,1,Lineysha Sparx,HIGH
+57,5,1,Honey Mahogany,SAFE
+55,5,1,Vivienne Pinay,SAFE
+59,5,1,Monica Beverly Hillz,SAFE
+51,5,1,Serena ChaCha,BTM2
+54,5,1,Penny Tration,ELIM
+53,5,2,Jinkx Monsoon,SAFE
+56,5,2,Alaska,SAFE
+49,5,2,Roxxxy Andrews,SAFE
+48,5,2,Detox,SAFE
+61,5,2,Coco Montrese,SAFE
+52,5,2,Alyssa Edwards,SAFE
+58,5,2,Ivy Winters,HIGH
+50,5,2,Jade Jolie,SAFE
+60,5,2,Lineysha Sparx,WIN
+57,5,2,Honey Mahogany,HIGH
+55,5,2,Vivienne Pinay,HIGH
+59,5,2,Monica Beverly Hillz,BTM2
+51,5,2,Serena ChaCha,ELIM
+53,5,3,Jinkx Monsoon,HIGH
+56,5,3,Alaska,LOW
+49,5,3,Roxxxy Andrews,HIGH
+48,5,3,Detox,WIN
+61,5,3,Coco Montrese,BTM2
+52,5,3,Alyssa Edwards,SAFE
+58,5,3,Ivy Winters,SAFE
+50,5,3,Jade Jolie,SAFE
+60,5,3,Lineysha Sparx,SAFE
+57,5,3,Honey Mahogany,SAFE
+55,5,3,Vivienne Pinay,LOW
+59,5,3,Monica Beverly Hillz,ELIM
+53,5,4,Jinkx Monsoon,HIGH
+56,5,4,Alaska,SAFE
+49,5,4,Roxxxy Andrews,LOW
+48,5,4,Detox,SAFE
+61,5,4,Coco Montrese,SAFE
+52,5,4,Alyssa Edwards,WIN
+58,5,4,Ivy Winters,HIGH
+50,5,4,Jade Jolie,SAFE
+60,5,4,Lineysha Sparx,SAFE
+57,5,4,Honey Mahogany,ELIM
+55,5,4,Vivienne Pinay,ELIM
+53,5,5,Jinkx Monsoon,WIN
+56,5,5,Alaska,HIGH
+49,5,5,Roxxxy Andrews,HIGH
+48,5,5,Detox,BTM2
+61,5,5,Coco Montrese,SAFE
+52,5,5,Alyssa Edwards,SAFE
+58,5,5,Ivy Winters,LOW
+50,5,5,Jade Jolie,SAFE
+60,5,5,Lineysha Sparx,ELIM
+53,5,6,Jinkx Monsoon,HIGH
+56,5,6,Alaska,SAFE
+49,5,6,Roxxxy Andrews,HIGH
+48,5,6,Detox,SAFE
+61,5,6,Coco Montrese,BTM2
+52,5,6,Alyssa Edwards,LOW
+58,5,6,Ivy Winters,WIN
+50,5,6,Jade Jolie,ELIM
+53,5,7,Jinkx Monsoon,HIGH
+56,5,7,Alaska,HIGH
+49,5,7,Roxxxy Andrews,BTM2
+48,5,7,Detox,SAFE
+61,5,7,Coco Montrese,WIN
+52,5,7,Alyssa Edwards,BTM2
+58,5,7,Ivy Winters,LOW
+53,5,8,Jinkx Monsoon,HIGH
+56,5,8,Alaska,WIN
+49,5,8,Roxxxy Andrews,LOW
+48,5,8,Detox,HIGH
+61,5,8,Coco Montrese,SAFE
+52,5,8,Alyssa Edwards,BTM2
+58,5,8,Ivy Winters,ELIM
+53,5,9,Jinkx Monsoon,WIN
+56,5,9,Alaska,HIGH
+49,5,9,Roxxxy Andrews,HIGH
+48,5,9,Detox,LOW
+61,5,9,Coco Montrese,BTM2
+52,5,9,Alyssa Edwards,ELIM
+53,5,10,Jinkx Monsoon,HIGH
+56,5,10,Alaska,LOW
+49,5,10,Roxxxy Andrews,WIN
+48,5,10,Detox,BTM2
+61,5,10,Coco Montrese,ELIM
+53,5,11,Jinkx Monsoon,BTM2
+56,5,11,Alaska,WIN
+49,5,11,Roxxxy Andrews,HIGH
+48,5,11,Detox,ELIM
+53,5,12,Jinkx Monsoon,SAFE
+56,5,12,Alaska,SAFE
+49,5,12,Roxxxy Andrews,SAFE
+53,5,14,Jinkx Monsoon,Winner
+56,5,14,Alaska,Runner-up
+49,5,14,Roxxxy Andrews,Runner-up
+48,5,14,Detox,Guest
+61,5,14,Coco Montrese,Guest
+52,5,14,Alyssa Edwards,Guest
+58,5,14,Ivy Winters,Miss C
+50,5,14,Jade Jolie,Guest
+60,5,14,Lineysha Sparx,Guest
+57,5,14,Honey Mahogany,Guest
+55,5,14,Vivienne Pinay,Guest
+59,5,14,Monica Beverly Hillz,Guest
+51,5,14,Serena ChaCha,Guest
+54,5,14,Penny Tration,Guest
+62,6,1,Adore Delano,LOW
+63,6,1,BenDeLaCreme,WIN
+65,6,1,Laganja Estranja,SAFE
+64,6,1,Gia Gunn,SAFE
+66,6,1,April Carrión,HIGH
+68,6,1,Vivacious,BTM2
+67,6,1,Kelly Mantle,ELIM
+69,6,2,Bianca Del Rio,WIN
+74,6,2,Courtney Act,SAFE
+75,6,2,Darienne Lake,BTM2
+71,6,2,Joslyn Fox,LOW
+70,6,2,Trinity K. Bonet,HIGH
+72,6,2,Milk,HIGH
+73,6,2,Magnolia Crawford,ELIM
+69,6,3,Bianca Del Rio,HIGH
+62,6,3,Adore Delano,LOW
+74,6,3,Courtney Act,HIGH
+75,6,3,Darienne Lake,WIN
+63,6,3,BenDeLaCreme,SAFE
+71,6,3,Joslyn Fox,HIGH
+70,6,3,Trinity K. Bonet,HIGH
+65,6,3,Laganja Estranja,SAFE
+72,6,3,Milk,HIGH
+64,6,3,Gia Gunn,SAFE
+66,6,3,April Carrión,BTM2
+68,6,3,Vivacious,ELIM
+69,6,4,Bianca Del Rio,SAFE
+62,6,4,Adore Delano,HIGH
+74,6,4,Courtney Act,WIN
+75,6,4,Darienne Lake,LOW
+63,6,4,BenDeLaCreme,HIGH
+71,6,4,Joslyn Fox,SAFE
+70,6,4,Trinity K. Bonet,BTM2
+65,6,4,Laganja Estranja,SAFE
+72,6,4,Milk,SAFE
+64,6,4,Gia Gunn,SAFE
+66,6,4,April Carrión,ELIM
+69,6,5,Bianca Del Rio,HIGH
+62,6,5,Adore Delano,HIGH
+74,6,5,Courtney Act,SAFE
+75,6,5,Darienne Lake,SAFE
+63,6,5,BenDeLaCreme,WIN
+71,6,5,Joslyn Fox,SAFE
+70,6,5,Trinity K. Bonet,SAFE
+65,6,5,Laganja Estranja,BTM2
+72,6,5,Milk,LOW
+64,6,5,Gia Gunn,ELIM
+69,6,6,Bianca Del Rio,HIGH
+62,6,6,Adore Delano,WIN
+74,6,6,Courtney Act,SAFE
+75,6,6,Darienne Lake,LOW
+63,6,6,BenDeLaCreme,SAFE
+71,6,6,Joslyn Fox,HIGH
+70,6,6,Trinity K. Bonet,BTM2
+65,6,6,Laganja Estranja,SAFE
+72,6,6,Milk,ELIM
+69,6,7,Bianca Del Rio,HIGH
+62,6,7,Adore Delano,WIN
+74,6,7,Courtney Act,LOW
+75,6,7,Darienne Lake,BTM2
+63,6,7,BenDeLaCreme,BTM2
+71,6,7,Joslyn Fox,LOW
+70,6,7,Trinity K. Bonet,HIGH
+65,6,7,Laganja Estranja,WIN
+69,6,8,Bianca Del Rio,WIN
+62,6,8,Adore Delano,SAFE
+74,6,8,Courtney Act,SAFE
+75,6,8,Darienne Lake,HIGH
+63,6,8,BenDeLaCreme,LOW
+71,6,8,Joslyn Fox,BTM2
+70,6,8,Trinity K. Bonet,HIGH
+65,6,8,Laganja Estranja,ELIM
+69,6,9,Bianca Del Rio,SAFE
+62,6,9,Adore Delano,BTM2
+74,6,9,Courtney Act,WIN
+75,6,9,Darienne Lake,SAFE
+63,6,9,BenDeLaCreme,HIGH
+71,6,9,Joslyn Fox,LOW
+70,6,9,Trinity K. Bonet,ELIM
+69,6,10,Bianca Del Rio,WIN
+62,6,10,Adore Delano,BTM2
+74,6,10,Courtney Act,LOW
+75,6,10,Darienne Lake,LOW
+63,6,10,BenDeLaCreme,HIGH
+71,6,10,Joslyn Fox,ELIM
+69,6,11,Bianca Del Rio,SAFE
+62,6,11,Adore Delano,WIN
+74,6,11,Courtney Act,LOW
+75,6,11,Darienne Lake,BTM2
+63,6,11,BenDeLaCreme,ELIM
+69,6,12,Bianca Del Rio,SAFE
+62,6,12,Adore Delano,SAFE
+74,6,12,Courtney Act,SAFE
+75,6,12,Darienne Lake,ELIM
+69,6,14,Bianca Del Rio,Winner
+62,6,14,Adore Delano,Runner-up
+74,6,14,Courtney Act,Runner-up
+75,6,14,Darienne Lake,Guest
+63,6,14,BenDeLaCreme,Miss C
+71,6,14,Joslyn Fox,Guest
+70,6,14,Trinity K. Bonet,Guest
+65,6,14,Laganja Estranja,Guest
+72,6,14,Milk,Guest
+64,6,14,Gia Gunn,Guest
+66,6,14,April Carrión,Guest
+68,6,14,Vivacious,Guest
+73,6,14,Magnolia Crawford,Guest
+67,6,14,Kelly Mantle,Guest
+79,7,1,Violet Chachki,WIN
+77,7,1,Ginger Minj,SAFE
+86,7,1,Pearl,SAFE
+87,7,1,Kennedy Davenport,HIGH
+81,7,1,Katya,SAFE
+84,7,1,Trixie Mattel,SAFE
+76,7,1,Miss Fame,HIGH
+78,7,1,Jaidynn Diore Fierce,SAFE
+80,7,1,Max,SAFE
+85,7,1,Kandy Ho,BTM2
+83,7,1,Mrs. Kasha Davis,SAFE
+82,7,1,Jasmine Masters,LOW
+88,7,1,Sasha Belle,LOW
+89,7,1,Tempest DuJour,ELIM
+79,7,2,Violet Chachki,HIGH
+77,7,2,Ginger Minj,WIN
+86,7,2,Pearl,SAFE
+87,7,2,Kennedy Davenport,SAFE
+81,7,2,Katya,BTM2
+84,7,2,Trixie Mattel,SAFE
+76,7,2,Miss Fame,LOW
+78,7,2,Jaidynn Diore Fierce,SAFE
+80,7,2,Max,SAFE
+85,7,2,Kandy Ho,SAFE
+83,7,2,Mrs. Kasha Davis,HIGH
+82,7,2,Jasmine Masters,SAFE
+88,7,2,Sasha Belle,ELIM
+79,7,3,Violet Chachki,SAFE
+77,7,3,Ginger Minj,HIGH
+86,7,3,Pearl,LOW
+87,7,3,Kennedy Davenport,BTM2
+81,7,3,Katya,SAFE
+84,7,3,Trixie Mattel,HIGH
+76,7,3,Miss Fame,HIGH
+78,7,3,Jaidynn Diore Fierce,HIGH
+80,7,3,Max,WIN
+85,7,3,Kandy Ho,SAFE
+83,7,3,Mrs. Kasha Davis,HIGH
+82,7,3,Jasmine Masters,ELIM
+79,7,4,Violet Chachki,SAFE
+77,7,4,Ginger Minj,SAFE
+86,7,4,Pearl,BTM2
+87,7,4,Kennedy Davenport,WIN
+81,7,4,Katya,HIGH
+84,7,4,Trixie Mattel,ELIM
+76,7,4,Miss Fame,SAFE
+78,7,4,Jaidynn Diore Fierce,HIGH
+80,7,4,Max,SAFE
+85,7,4,Kandy Ho,LOW
+83,7,4,Mrs. Kasha Davis,SAFE
+79,7,5,Violet Chachki,LOW
+77,7,5,Ginger Minj,SAFE
+86,7,5,Pearl,WIN
+87,7,5,Kennedy Davenport,SAFE
+81,7,5,Katya,SAFE
+76,7,5,Miss Fame,SAFE
+78,7,5,Jaidynn Diore Fierce,SAFE
+80,7,5,Max,WIN
+85,7,5,Kandy Ho,BTM2
+83,7,5,Mrs. Kasha Davis,ELIM
+79,7,6,Violet Chachki,SAFE
+77,7,6,Ginger Minj,HIGH
+86,7,6,Pearl,SAFE
+87,7,6,Kennedy Davenport,HIGH
+81,7,6,Katya,WIN
+76,7,6,Miss Fame,LOW
+78,7,6,Jaidynn Diore Fierce,BTM2
+80,7,6,Max,SAFE
+85,7,6,Kandy Ho,ELIM
+79,7,7,Violet Chachki,SAFE
+77,7,7,Ginger Minj,WIN
+86,7,7,Pearl,SAFE
+87,7,7,Kennedy Davenport,WIN
+81,7,7,Katya,HIGH
+76,7,7,Miss Fame,LOW
+78,7,7,Jaidynn Diore Fierce,BTM2
+80,7,7,Max,ELIM
+79,7,8,Violet Chachki,HIGH
+77,7,8,Ginger Minj,BTM2
+86,7,8,Pearl,WIN
+87,7,8,Kennedy Davenport,SAFE
+81,7,8,Katya,HIGH
+84,7,8,Trixie Mattel,WIN
+76,7,8,Miss Fame,LOW
+78,7,8,Jaidynn Diore Fierce,ELIM
+80,7,8,Max,OUT
+85,7,8,Kandy Ho,OUT
+83,7,8,Mrs. Kasha Davis,OUT
+82,7,8,Jasmine Masters,OUT
+88,7,8,Sasha Belle,OUT
+89,7,8,Tempest DuJour,OUT
+79,7,9,Violet Chachki,LOW
+77,7,9,Ginger Minj,WIN
+86,7,9,Pearl,BTM2
+87,7,9,Kennedy Davenport,SAFE
+81,7,9,Katya,HIGH
+84,7,9,Trixie Mattel,SAFE
+76,7,9,Miss Fame,ELIM
+79,7,10,Violet Chachki,WIN
+77,7,10,Ginger Minj,BTM2
+86,7,10,Pearl,SAFE
+87,7,10,Kennedy Davenport,SAFE
+81,7,10,Katya,WIN
+84,7,10,Trixie Mattel,ELIM
+79,7,11,Violet Chachki,WIN
+77,7,11,Ginger Minj,SAFE
+86,7,11,Pearl,SAFE
+87,7,11,Kennedy Davenport,BTM2
+81,7,11,Katya,ELIM
+79,7,12,Violet Chachki,SAFE
+77,7,12,Ginger Minj,SAFE
+86,7,12,Pearl,SAFE
+87,7,12,Kennedy Davenport,ELIM
+79,7,14,Violet Chachki,Winner
+77,7,14,Ginger Minj,Runner-up
+86,7,14,Pearl,Runner-up
+87,7,14,Kennedy Davenport,Guest
+81,7,14,Katya,Miss C
+84,7,14,Trixie Mattel,Guest
+76,7,14,Miss Fame,Guest
+78,7,14,Jaidynn Diore Fierce,Guest
+80,7,14,Max,Guest
+85,7,14,Kandy Ho,Guest
+83,7,14,Mrs. Kasha Davis,Guest
+82,7,14,Jasmine Masters,Guest
+88,7,14,Sasha Belle,Guest
+89,7,14,Tempest DuJour,Guest
+98,8,1,Bob the Drag Queen,SAFE
+96,8,1,Kim Chi,WIN
+90,8,1,Naomi Smalls,SAFE
+100,8,1,Chi Chi DeVayne,SAFE
+101,8,1,Derrick Barry,HIGH
+97,8,1,Thorgy Thor,SAFE
+95,8,1,Robbie Turner,LOW
+94,8,1,Acid Betty,HIGH
+93,8,1,Naysha Lopez,ELIM
+91,8,1,Cynthia Lee Fontaine,SAFE
+92,8,1,Dax ExclamationPoint,SAFE
+99,8,1,Laila McQueen,BTM2
+98,8,2,Bob the Drag Queen,SAFE
+96,8,2,Kim Chi,LOW
+90,8,2,Naomi Smalls,SAFE
+100,8,2,Chi Chi DeVayne,WIN
+101,8,2,Derrick Barry,SAFE
+97,8,2,Thorgy Thor,HIGH
+95,8,2,Robbie Turner,SAFE
+94,8,2,Acid Betty,HIGH
+91,8,2,Cynthia Lee Fontaine,SAFE
+92,8,2,Dax ExclamationPoint,ELIM
+99,8,2,Laila McQueen,ELIM
+98,8,3,Bob the Drag Queen,WIN
+96,8,3,Kim Chi,SAFE
+90,8,3,Naomi Smalls,SAFE
+100,8,3,Chi Chi DeVayne,SAFE
+101,8,3,Derrick Barry,LOW
+97,8,3,Thorgy Thor,HIGH
+95,8,3,Robbie Turner,BTM2
+94,8,3,Acid Betty,HIGH
+93,8,3,Naysha Lopez,SAFE
+91,8,3,Cynthia Lee Fontaine,ELIM
+98,8,4,Bob the Drag Queen,SAFE
+96,8,4,Kim Chi,HIGH
+90,8,4,Naomi Smalls,HIGH
+100,8,4,Chi Chi DeVayne,BTM2
+101,8,4,Derrick Barry,LOW
+97,8,4,Thorgy Thor,SAFE
+95,8,4,Robbie Turner,WIN
+94,8,4,Acid Betty,SAFE
+93,8,4,Naysha Lopez,ELIM
+98,8,5,Bob the Drag Queen,WIN
+96,8,5,Kim Chi,SAFE
+90,8,5,Naomi Smalls,BTM2
+100,8,5,Chi Chi DeVayne,SAFE
+101,8,5,Derrick Barry,HIGH
+97,8,5,Thorgy Thor,HIGH
+95,8,5,Robbie Turner,LOW
+94,8,5,Acid Betty,ELIM
+98,8,6,Bob the Drag Queen,SAFE
+96,8,6,Kim Chi,HIGH
+90,8,6,Naomi Smalls,WIN
+100,8,6,Chi Chi DeVayne,LOW
+101,8,6,Derrick Barry,BTM2
+97,8,6,Thorgy Thor,SAFE
+95,8,6,Robbie Turner,ELIM
+98,8,7,Bob the Drag Queen,WIN
+96,8,7,Kim Chi,SAFE
+90,8,7,Naomi Smalls,SAFE
+100,8,7,Chi Chi DeVayne,BTM2
+101,8,7,Derrick Barry,WIN
+97,8,7,Thorgy Thor,ELIM
+98,8,8,Bob the Drag Queen,BTM2
+96,8,8,Kim Chi,WIN
+90,8,8,Naomi Smalls,HIGH
+100,8,8,Chi Chi DeVayne,HIGH
+101,8,8,Derrick Barry,ELIM
+98,8,9,Bob the Drag Queen,SAFE
+96,8,9,Kim Chi,SAFE
+90,8,9,Naomi Smalls,SAFE
+100,8,9,Chi Chi DeVayne,ELIM
+98,8,10,Bob the Drag Queen,Winner
+96,8,10,Kim Chi,Runner-up
+90,8,10,Naomi Smalls,Runner-up
+100,8,10,Chi Chi DeVayne,Guest
+101,8,10,Derrick Barry,Guest
+97,8,10,Thorgy Thor,Guest
+95,8,10,Robbie Turner,Guest
+94,8,10,Acid Betty,Guest
+93,8,10,Naysha Lopez,Guest
+91,8,10,Cynthia Lee Fontaine,Miss C
+92,8,10,Dax ExclamationPoint,Guest
+99,8,10,Laila McQueen,Guest
+107,9,1,Sasha Velour,HIGH
+102,9,1,Peppermint,SAFE
+109,9,1,Shea Couleé,SAFE
+110,9,1,Trinity Taylor,SAFE
+108,9,1,Alexis Michelle,SAFE
+113,9,1,Nina Bo'nina Brown,WIN
+103,9,1,Valentina,SAFE
+106,9,1,Farrah Moan,SAFE
+114,9,1,Aja,SAFE
+105,9,1,Charlie Hides,SAFE
+111,9,1,Kimora Blac,SAFE
+112,9,1,Jaymes Mansfield,SAFE
+107,9,2,Sasha Velour,SAFE
+102,9,2,Peppermint,SAFE
+109,9,2,Shea Couleé,HIGH
+110,9,2,Trinity Taylor,HIGH
+108,9,2,Alexis Michelle,SAFE
+113,9,2,Nina Bo'nina Brown,SAFE
+103,9,2,Valentina,WIN
+106,9,2,Farrah Moan,SAFE
+114,9,2,Aja,SAFE
+115,9,2,Cynthia Lee Fontaine,SAFE
+105,9,2,Charlie Hides,LOW
+111,9,2,Kimora Blac,BTM2
+112,9,2,Jaymes Mansfield,ELIM
+107,9,3,Sasha Velour,SAFE
+102,9,3,Peppermint,HIGH
+109,9,3,Shea Couleé,SAFE
+110,9,3,Trinity Taylor,WIN
+108,9,3,Alexis Michelle,SAFE
+113,9,3,Nina Bo'nina Brown,SAFE
+103,9,3,Valentina,HIGH
+106,9,3,Farrah Moan,LOW
+114,9,3,Aja,BTM2
+115,9,3,Cynthia Lee Fontaine,SAFE
+105,9,3,Charlie Hides,SAFE
+111,9,3,Kimora Blac,ELIM
+107,9,4,Sasha Velour,WIN
+102,9,4,Peppermint,LOW
+109,9,4,Shea Couleé,WIN
+110,9,4,Trinity Taylor,BTM2
+108,9,4,Alexis Michelle,HIGH
+113,9,4,Nina Bo'nina Brown,SAFE
+103,9,4,Valentina,HIGH
+106,9,4,Farrah Moan,HIGH
+114,9,4,Aja,HIGH
+115,9,4,Cynthia Lee Fontaine,SAFE
+105,9,4,Charlie Hides,ELIM
+107,9,5,Sasha Velour,SAFE
+102,9,5,Peppermint,HIGH
+109,9,5,Shea Couleé,WIN
+110,9,5,Trinity Taylor,SAFE
+108,9,5,Alexis Michelle,HIGH
+113,9,5,Nina Bo'nina Brown,LOW
+103,9,5,Valentina,SAFE
+106,9,5,Farrah Moan,BTM2
+114,9,5,Aja,SAFE
+115,9,5,Cynthia Lee Fontaine,BTM2
+107,9,6,Sasha Velour,HIGH
+102,9,6,Peppermint,BTM2
+109,9,6,Shea Couleé,SAFE
+110,9,6,Trinity Taylor,SAFE
+108,9,6,Alexis Michelle,WIN
+113,9,6,Nina Bo'nina Brown,HIGH
+103,9,6,Valentina,SAFE
+106,9,6,Farrah Moan,LOW
+114,9,6,Aja,SAFE
+115,9,6,Cynthia Lee Fontaine,ELIM
+107,9,7,Sasha Velour,LOW
+102,9,7,Peppermint,SAFE
+109,9,7,Shea Couleé,HIGH
+110,9,7,Trinity Taylor,WIN
+108,9,7,Alexis Michelle,SAFE
+113,9,7,Nina Bo'nina Brown,BTM2
+103,9,7,Valentina,HIGH
+106,9,7,Farrah Moan,SAFE
+114,9,7,Aja,ELIM
+107,9,8,Sasha Velour,HIGH
+102,9,8,Peppermint,WIN
+109,9,8,Shea Couleé,HIGH
+110,9,8,Trinity Taylor,LOW
+108,9,8,Alexis Michelle,BTM2
+113,9,8,Nina Bo'nina Brown,SAFE
+103,9,8,Valentina,SAFE
+106,9,8,Farrah Moan,ELIM
+107,9,9,Sasha Velour,WIN
+102,9,9,Peppermint,HIGH
+109,9,9,Shea Couleé,WIN
+110,9,9,Trinity Taylor,HIGH
+108,9,9,Alexis Michelle,LOW
+113,9,9,Nina Bo'nina Brown,BTM2
+103,9,9,Valentina,ELIM
+107,9,10,Sasha Velour,HIGH
+102,9,10,Peppermint,SAFE
+109,9,10,Shea Couleé,BTM2
+110,9,10,Trinity Taylor,WIN
+108,9,10,Alexis Michelle,LOW
+113,9,10,Nina Bo'nina Brown,ELIM
+107,9,11,Sasha Velour,HIGH
+102,9,11,Peppermint,BTM2
+109,9,11,Shea Couleé,WIN
+110,9,11,Trinity Taylor,LOW
+108,9,11,Alexis Michelle,ELIM
+107,9,12,Sasha Velour,SAFE
+102,9,12,Peppermint,SAFE
+109,9,12,Shea Couleé,SAFE
+110,9,12,Trinity Taylor,SAFE
+107,9,13,Sasha Velour,Guest
+102,9,13,Peppermint,Guest
+109,9,13,Shea Couleé,Guest
+110,9,13,Trinity Taylor,Guest
+108,9,13,Alexis Michelle,Guest
+113,9,13,Nina Bo'nina Brown,Guest
+103,9,13,Valentina,Miss C
+106,9,13,Farrah Moan,Guest
+114,9,13,Aja,Guest
+115,9,13,Cynthia Lee Fontaine,Guest
+105,9,13,Charlie Hides,Guest
+111,9,13,Kimora Blac,Guest
+112,9,13,Jaymes Mansfield,Guest
+107,9,14,Sasha Velour,Winner
+102,9,14,Peppermint,Runner-up
+109,9,14,Shea Couleé,Eliminated
+110,9,14,Trinity Taylor,Eliminated
+108,9,14,Alexis Michelle,Guest
+113,9,14,Nina Bo'nina Brown,Guest
+103,9,14,Valentina,Guest
+106,9,14,Farrah Moan,Guest
+114,9,14,Aja,Guest
+115,9,14,Cynthia Lee Fontaine,Guest
+105,9,14,Charlie Hides,Guest
+111,9,14,Kimora Blac,Guest
+112,9,14,Jaymes Mansfield,Guest
+129,10,1,Aquaria,SAFE
+116,10,1,Eureka,SAFE
+122,10,1,Kameron Michaels,SAFE
+117,10,1,Asia O'Hara,SAFE
+118,10,1,Miz Cracker,HIGH
+121,10,1,Monét X Change,SAFE
+127,10,1,The Vixen,SAFE
+125,10,1,Monique Heart,SAFE
+120,10,1,Blair St. Clair,HIGH
+123,10,1,Mayhem Miller,WIN
+126,10,1,Dusty Ray Bottoms,LOW
+119,10,1,Yuhua Hamasaki,HIGH
+124,10,1,Kalorie Karbdashian Williams,BTM2
+129,10,2,Aquaria,SAFE
+116,10,2,Eureka,BTM2
+122,10,2,Kameron Michaels,HIGH
+117,10,2,Asia O'Hara,SAFE
+118,10,2,Miz Cracker,HIGH
+121,10,2,Monét X Change,HIGH
+127,10,2,The Vixen,WIN
+125,10,2,Monique Heart,LOW
+120,10,2,Blair St. Clair,HIGH
+123,10,2,Mayhem Miller,HIGH
+126,10,2,Dusty Ray Bottoms,SAFE
+119,10,2,Yuhua Hamasaki,SAFE
+124,10,2,Kalorie Karbdashian Williams,ELIM
+129,10,3,Aquaria,SAFE
+116,10,3,Eureka,HIGH
+122,10,3,Kameron Michaels,LOW
+117,10,3,Asia O'Hara,WIN
+118,10,3,Miz Cracker,SAFE
+121,10,3,Monét X Change,SAFE
+127,10,3,The Vixen,SAFE
+125,10,3,Monique Heart,SAFE
+120,10,3,Blair St. Clair,HIGH
+123,10,3,Mayhem Miller,BTM2
+126,10,3,Dusty Ray Bottoms,SAFE
+119,10,3,Yuhua Hamasaki,ELIM
+129,10,4,Aquaria,WIN
+116,10,4,Eureka,SAFE
+122,10,4,Kameron Michaels,HIGH
+117,10,4,Asia O'Hara,LOW
+118,10,4,Miz Cracker,HIGH
+121,10,4,Monét X Change,BTM2
+127,10,4,The Vixen,SAFE
+125,10,4,Monique Heart,SAFE
+120,10,4,Blair St. Clair,SAFE
+123,10,4,Mayhem Miller,SAFE
+126,10,4,Dusty Ray Bottoms,ELIM
+129,10,5,Aquaria,SAFE
+116,10,5,Eureka,WIN
+122,10,5,Kameron Michaels,SAFE
+117,10,5,Asia O'Hara,SAFE
+118,10,5,Miz Cracker,HIGH
+121,10,5,Monét X Change,BTM2
+127,10,5,The Vixen,LOW
+125,10,5,Monique Heart,HIGH
+120,10,5,Blair St. Clair,SAFE
+123,10,5,Mayhem Miller,ELIM
+129,10,6,Aquaria,SAFE
+116,10,6,Eureka,WIN
+122,10,6,Kameron Michaels,HIGH
+117,10,6,Asia O'Hara,SAFE
+118,10,6,Miz Cracker,LOW
+121,10,6,Monét X Change,HIGH
+127,10,6,The Vixen,BTM2
+125,10,6,Monique Heart,SAFE
+120,10,6,Blair St. Clair,ELIM
+129,10,7,Aquaria,WIN
+116,10,7,Eureka,HIGH
+122,10,7,Kameron Michaels,SAFE
+117,10,7,Asia O'Hara,LOW
+118,10,7,Miz Cracker,SAFE
+121,10,7,Monét X Change,HIGH
+127,10,7,The Vixen,BTM2
+125,10,7,Monique Heart,ELIM
+129,10,8,Aquaria,LOW
+116,10,8,Eureka,SAFE
+122,10,8,Kameron Michaels,WIN
+117,10,8,Asia O'Hara,BTM2
+118,10,8,Miz Cracker,SAFE
+121,10,8,Monét X Change,HIGH
+127,10,8,The Vixen,ELIM
+129,10,9,Aquaria,HIGH
+116,10,9,Eureka,BTM2
+122,10,9,Kameron Michaels,BTM2
+117,10,9,Asia O'Hara,WIN
+118,10,9,Miz Cracker,LOW
+121,10,9,Monét X Change,HIGH
+129,10,10,Aquaria,LOW
+116,10,10,Eureka,HIGH
+122,10,10,Kameron Michaels,BTM2
+117,10,10,Asia O'Hara,HIGH
+118,10,10,Miz Cracker,WIN
+121,10,10,Monét X Change,ELIM
+129,10,11,Aquaria,WIN
+116,10,11,Eureka,HIGH
+122,10,11,Kameron Michaels,BTM2
+117,10,11,Asia O'Hara,HIGH
+118,10,11,Miz Cracker,ELIM
+129,10,12,Aquaria,SAFE
+116,10,12,Eureka,SAFE
+122,10,12,Kameron Michaels,SAFE
+117,10,12,Asia O'Hara,SAFE
+129,10,13,Aquaria,Guest
+116,10,13,Eureka,Guest
+122,10,13,Kameron Michaels,Guest
+117,10,13,Asia O'Hara,Guest
+118,10,13,Miz Cracker,Guest
+121,10,13,Monét X Change,Guest
+127,10,13,The Vixen,Guest
+125,10,13,Monique Heart,Guest
+120,10,13,Blair St. Clair,Guest
+123,10,13,Mayhem Miller,Guest
+126,10,13,Dusty Ray Bottoms,Guest
+119,10,13,Yuhua Hamasaki,Guest
+124,10,13,Kalorie Karbdashian Williams,Guest
+129,10,14,Aquaria,Winner
+116,10,14,Eureka,Runner-up
+122,10,14,Kameron Michaels,Runner-up
+117,10,14,Asia O'Hara,Eliminated
+118,10,14,Miz Cracker,Guest
+121,10,14,Monét X Change,Miss C
+127,10,14,The Vixen,Guest
+125,10,14,Monique Heart,Guest
+120,10,14,Blair St. Clair,Guest
+123,10,14,Mayhem Miller,Guest
+126,10,14,Dusty Ray Bottoms,Guest
+119,10,14,Yuhua Hamasaki,Guest
+124,10,14,Kalorie Karbdashian Williams,Guest
+137,11,1,A'keria Chanel Davenport,HIGH
+140,11,1,Brooke Lynn Hytes,WIN
+131,11,1,Nina West,LOW
+133,11,1,Plastique Tiara,HIGH
+132,11,1,Shuga Cain,SAFE
+139,11,1,Silky Nutmeg Ganache,SAFE
+130,11,1,Vanessa Vanjie Mateo,HIGH
+138,11,1,Yvie Oddly,SAFE
+142,11,1,Ra'jah D. O'Hara,SAFE
+135,11,1,Scarlet Envy,SAFE
+141,11,1,Ariel Versace,SAFE
+134,11,1,Mercedes Iman Diamond,LOW
+136,11,1,Honey Davenport,SAFE
+143,11,1,Kahanna Montrese,BTM2
+144,11,1,Soju,ELIM
+137,11,2,A'keria Chanel Davenport,SAFE
+140,11,2,Brooke Lynn Hytes,LOW
+131,11,2,Nina West,SAFE
+133,11,2,Plastique Tiara,HIGH
+132,11,2,Shuga Cain,HIGH
+139,11,2,Silky Nutmeg Ganache,SAFE
+130,11,2,Vanessa Vanjie Mateo,SAFE
+138,11,2,Yvie Oddly,WIN
+142,11,2,Ra'jah D. O'Hara,SAFE
+135,11,2,Scarlet Envy,WIN
+141,11,2,Ariel Versace,LOW
+134,11,2,Mercedes Iman Diamond,BTM2
+136,11,2,Honey Davenport,SAFE
+143,11,2,Kahanna Montrese,ELIM
+137,11,3,A'keria Chanel Davenport,BTM6
+140,11,3,Brooke Lynn Hytes,HIGH
+131,11,3,Nina West,WIN
+133,11,3,Plastique Tiara,BTM6
+132,11,3,Shuga Cain,BTM6
+139,11,3,Silky Nutmeg Ganache,HIGH
+130,11,3,Vanessa Vanjie Mateo,HIGH
+138,11,3,Yvie Oddly,HIGH
+142,11,3,Ra'jah D. O'Hara,BTM6
+135,11,3,Scarlet Envy,BTM6
+141,11,3,Ariel Versace,HIGH
+134,11,3,Mercedes Iman Diamond,HIGH
+136,11,3,Honey Davenport,ELIM
+137,11,4,A'keria Chanel Davenport,SAFE
+140,11,4,Brooke Lynn Hytes,HIGH
+131,11,4,Nina West,SAFE
+133,11,4,Plastique Tiara,SAFE
+132,11,4,Shuga Cain,SAFE
+139,11,4,Silky Nutmeg Ganache,WIN
+130,11,4,Vanessa Vanjie Mateo,LOW
+138,11,4,Yvie Oddly,HIGH
+142,11,4,Ra'jah D. O'Hara,BTM2
+135,11,4,Scarlet Envy,SAFE
+141,11,4,Ariel Versace,SAFE
+134,11,4,Mercedes Iman Diamond,ELIM
+137,11,5,A'keria Chanel Davenport,SAFE
+140,11,5,Brooke Lynn Hytes,WIN
+131,11,5,Nina West,SAFE
+133,11,5,Plastique Tiara,HIGH
+132,11,5,Shuga Cain,BTM2
+139,11,5,Silky Nutmeg Ganache,LOW
+130,11,5,Vanessa Vanjie Mateo,SAFE
+138,11,5,Yvie Oddly,HIGH
+142,11,5,Ra'jah D. O'Hara,SAFE
+135,11,5,Scarlet Envy,SAFE
+141,11,5,Ariel Versace,ELIM
+137,11,6,A'keria Chanel Davenport,WIN
+140,11,6,Brooke Lynn Hytes,HIGH
+131,11,6,Nina West,LOW
+133,11,6,Plastique Tiara,SAFE
+132,11,6,Shuga Cain,HIGH
+139,11,6,Silky Nutmeg Ganache,HIGH
+130,11,6,Vanessa Vanjie Mateo,SAFE
+138,11,6,Yvie Oddly,HIGH
+142,11,6,Ra'jah D. O'Hara,BTM2
+135,11,6,Scarlet Envy,ELIM
+137,11,7,A'keria Chanel Davenport,BTM2
+140,11,7,Brooke Lynn Hytes,HIGH
+131,11,7,Nina West,LOW
+133,11,7,Plastique Tiara,WIN
+132,11,7,Shuga Cain,SAFE
+139,11,7,Silky Nutmeg Ganache,SAFE
+130,11,7,Vanessa Vanjie Mateo,SAFE
+138,11,7,Yvie Oddly,HIGH
+142,11,7,Ra'jah D. O'Hara,ELIM
+137,11,8,A'keria Chanel Davenport,SAFE
+140,11,8,Brooke Lynn Hytes,BTM2
+131,11,8,Nina West,HIGH
+133,11,8,Plastique Tiara,SAFE
+132,11,8,Shuga Cain,HIGH
+139,11,8,Silky Nutmeg Ganache,WIN
+130,11,8,Vanessa Vanjie Mateo,LOW
+138,11,8,Yvie Oddly,BTM2
+137,11,8,A'keria Chanel Davenport,WIN
+140,11,8,Brooke Lynn Hytes,HIGH
+131,11,8,Nina West,SAFE
+133,11,8,Plastique Tiara,BTM2
+132,11,8,Shuga Cain,LOW
+139,11,8,Silky Nutmeg Ganache,HIGH
+130,11,8,Vanessa Vanjie Mateo,BTM2
+138,11,8,Yvie Oddly,SAFE
+137,11,9,A'keria Chanel Davenport,WIN
+140,11,9,Brooke Lynn Hytes,HIGH
+131,11,9,Nina West,SAFE
+133,11,9,Plastique Tiara,BTM2
+132,11,9,Shuga Cain,LOW
+139,11,9,Silky Nutmeg Ganache,HIGH
+130,11,9,Vanessa Vanjie Mateo,BTM2
+138,11,9,Yvie Oddly,SAFE
+137,11,10,A'keria Chanel Davenport,SAFE
+140,11,10,Brooke Lynn Hytes,HIGH
+131,11,10,Nina West,WIN
+132,11,10,Shuga Cain,BTM2
+139,11,10,Silky Nutmeg Ganache,LOW
+130,11,10,Vanessa Vanjie Mateo,BTM2
+138,11,10,Yvie Oddly,SAFE
+137,11,10,A'keria Chanel Davenport,HIGH
+140,11,10,Brooke Lynn Hytes,WIN
+139,11,10,Silky Nutmeg Ganache,BTM2
+130,11,10,Vanessa Vanjie Mateo,HIGH
+138,11,10,Yvie Oddly,LOW
+131,11,10,Nina West,BTM2
